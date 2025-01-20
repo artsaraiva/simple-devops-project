@@ -1,1 +1,1 @@
-# simple-devops-projecta
+# simple-devops-project
